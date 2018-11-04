@@ -9,5 +9,7 @@
  
  https://github.com/AlvaroCabreraDam2/UI-implementation-2
 
- Enlace al proyecto en gitCDN : 
+ Enlace al proyecto en gitCDN :
+ 
+ https://gitcdn.xyz/repo/AlvaroCabreraDam2/UI-implementation-2/master/index.html
 
