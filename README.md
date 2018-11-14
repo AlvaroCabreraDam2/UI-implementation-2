@@ -1,5 +1,4 @@
-# UI implementation 2
- Attributes, Classes and CSS Manipulation
+# 7- UI implementation. Attributes, Classes and CSS Manipulation
  
  Enlace al documento online :
  
